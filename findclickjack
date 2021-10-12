@@ -17,10 +17,8 @@ CNC='\033[1;38;5;051m'
 function banner(){
 
 
-echo -e ${CNC}"        A Simple Tool To Find ClickJacking Vulnerability With POC          #"
-echo -e ${YELLOW}"                                                      #"
-echo -e ${CP}"          Follow Me On:  ${CPO}Instagram: lemosnlmb                       #"
-echo -e ${CP}"                                                      #"
+echo -e ${CNC}"        A Simple Tool To Find ClickJacking Vulnerability With POC          "
+echo -e ${CP}"          Follow Me On:  ${CPO}Instagram: lemosnlmb                         "
 echo -e ${RED}"#############################################################################\n "
 
 }
