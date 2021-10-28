@@ -1,2 +1,2 @@
 # findclickjack
-Automated tool for single/massive scan for Clickjacking vulnerability
+Automated Shell Script to find Clickjacking vulnerability
